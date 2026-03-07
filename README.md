@@ -30,9 +30,21 @@ Systems Programming | Backend Development | Machine Learning | Algorithm Design 
 
 ---
 
+## Learning Goals
+
+I am continuously improving my knowledge in:
+
+- Distributed systems and scalable backend architectures  
+- Advanced machine learning and optimisation techniques  
+- Secure software system design  
+- High-performance computing and systems-level programming  
+- Modern software engineering practices and tooling
+
+---
+
 ## Contact
 
 📧 Email: aqeeljindal123@gmail.com  
-🔗 LinkedIn: linkedin.com/in/aqeel-jindal 
+🔗 LinkedIn: https://www.linkedin.com/in/aqeel-jindal/
 
 ---
