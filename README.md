@@ -21,7 +21,7 @@ I focus on developing performance-aware and reliable software solutions across s
 
 ## Technical Domains
 
-Systems Programming | Backend Development | Machine Learning | Algorithm Design | Graph Theory | Operating System Concepts
+Systems Programming | Backend Development | Machine Learning | Algorithm Design | Graph Theory | Operating System Concepts | Combinatorial Optimisation
 
 ---
 
@@ -42,6 +42,7 @@ I am continuously improving my knowledge in:
 - Secure software system design  
 - High-performance computing and systems-level programming  
 - Modern software engineering practices and tooling
+- Cloud infrastructure and containerisation (AWS and Docker)
 
 ---
 
