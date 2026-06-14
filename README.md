@@ -15,7 +15,7 @@ I focus on developing performance-aware and reliable software solutions across s
 - [xv6 Shell](https://github.com/AqeelJindal/xv6-shell) – Systems-level Unix-style shell implementation supporting pipelines and process execution
 - [Concurrent Client-Server Network System](https://github.com/AqeelJindal/Concurrent-Client-Server-Network-System) – Multi-threaded TCP client-server application in Java with synchronized request handling
 - [Machine Learning Model](https://github.com/AqeelJindal/Machine-Learning-Model) – Scikit-Learn pipeline using PCA and regression for 3D biological shape analysis and predictive modeling
-
+- [Final Year Project](https://github.com/AqeelJindal/Final-Year-Project) – Lexicographic Genetic algorithm–based university timetabling system in Python with two-phase optimisation for hard constraint satisfaction and soft preference minimisation
 
 ---
 
